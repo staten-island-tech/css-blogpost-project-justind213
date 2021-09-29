@@ -1,3 +1,11 @@
 body {
+  font-family: "Oxygen", sans-serif;
   background-image: url(img/kirbo1.jpg);
+}
+
+.Title {
+  text-align: center;
+  margin-top: 5px;
+  color: antiquewhite;
+  font-size: 40px;
 }
